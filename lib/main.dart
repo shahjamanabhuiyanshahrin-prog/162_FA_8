@@ -52,7 +52,7 @@ class HomeScreen extends StatelessWidget {
         mainAxisAlignment: MainAxisAlignment.spaceEvenly,
         children: [
 
-          // Top Row (1,2,3)
+          
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
             children: [
@@ -62,7 +62,7 @@ class HomeScreen extends StatelessWidget {
             ],
           ),
 
-          // Large Container
+          
           Container(
             height: 100,
             width: 300,
@@ -74,7 +74,7 @@ class HomeScreen extends StatelessWidget {
             ),
           ),
 
-          // Bottom Row (Left, Right)
+          
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
             children: [
